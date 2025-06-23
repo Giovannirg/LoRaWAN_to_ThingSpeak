@@ -1,4 +1,4 @@
-Master thesis Script to use the SX1262 Raspberry Pi hat  as a LoRaWAN Gateway and allow to present data from LoRa Nodes equipped with a DHT11 sensor on ThingSpeak by means of the MQTT protocol.
+Master thesis Script to use the SX1262 Raspberry Pi hat  as a LoRaWAN Gateway (actually not a gateway module but cheaper) and allow to present data from LoRa Nodes equipped with a DHT11 sensor on ThingSpeak by means of the MQTT protocol.
 
 https://www.waveshare.com/sx1262-lorawan-hat.htm
 
