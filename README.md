@@ -6,6 +6,8 @@ https://www.adafruit.com/product/386
 
 Data transmission distance between nodes and gateway of +1 Km was achieved in Berlin, Germany. 
 
+use crontab or any of the bash options to set it to run at startup and on the babckground. then the radio will be listening for incoming packets. 
+
 ------------------
 
 code is licensed under MIT, commercial use requires explicit permission.
